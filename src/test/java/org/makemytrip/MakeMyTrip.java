@@ -34,7 +34,16 @@ public class MakeMyTrip extends UtilityClass  {
 		
 		global.btnClick(home.getSearchBtn());
 		
+		{
+			System.out.println("2");
+		}
+		
 	
+	}
+
+	private static void demoClass() {
+		// TODO Auto-generated method stub
+		
 	}
 	
 	
