@@ -37,7 +37,12 @@ public class MakeMyTrip extends UtilityClass  {
 		{
 			System.out.println("2");
 		}
-		
+		{
+		System.out.println("nirendraprabhu");
+		}
+		{
+			System.out.println("987");
+		}
 	
 	}
 
